@@ -20,5 +20,4 @@ RIF Robotics Public documentation
 5. [Soldering](soldering.md)
 6. [Electric cabinet wiring](dinwiring.md)
 7. [Fusion](fusion.md)
-8. [Circuitry Basics](circuitry.md)
 
