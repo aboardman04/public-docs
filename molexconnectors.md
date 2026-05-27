@@ -42,3 +42,5 @@
 * The crimpers RIF has allow both insulator and conductor tabs to be crimped at the same time. Alight the pin correctly in the crimper with the conducting pin on the slightly elivated portion of the crimper, close crimper slowly, but not all the way, just untill you hear a click indicating the crimper is locked. Then thread the wire into place making sure it does not frey, and crimp fully once the wire is in place.
 * After crimping make sure to give it a tug to make sure all connections are secure.
 * Make sure you pick the right gauge to use on the crimpter (probaly 20 gauge).  
+
+[[<-back]](README.md) 
