@@ -1,5 +1,5 @@
 ## Wire Stripping Tutorial
-### Tutorials
+### Video Tutorials
 * [With normal wire stippers](https://www.youtube.com/watch?v=fDo-KbKRd4A)
 * [With stripmaster tool](https://www.youtube.com/watch?v=z0-0BqyOOh4)
 ### Tips and Tricks

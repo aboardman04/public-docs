@@ -4,6 +4,6 @@
 * Go through the [tutorial](https://www.youtube.com/playlist?list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr) to learn how to use it. Day 1-3 of the turorial will teach you the basic skills you need to suceed in Fusion. The rest of the training is helpful for learning more specific skills.
 
 
-#### [Training Tutorial](https://www.youtube.com/playlist?list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr)
+### [Training Video Tutorials](https://www.youtube.com/playlist?list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr)
 
 [[<-back]](README.md) 

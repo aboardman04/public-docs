@@ -1,5 +1,5 @@
 ## Soldering Tutorial
-### Tutorials
+### Video Tutorials
 * [Basics of Soldering](https://www.youtube.com/watch?v=6rmErwU5E-k&t=256s)
 * [Removing Solder](https://www.youtube.com/watch?v=bG7yW9FigJA&t=58s)
 * [Good and Bad Soldering Techniques](https://www.instructables.com/A-Comprehensive-Guide-to-Soldering-Techniques-Tool/)

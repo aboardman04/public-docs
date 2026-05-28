@@ -13,11 +13,11 @@ RIF Robotics Public documentation
 1. [Behavior Trees](https://www.behaviortree.dev/docs/Intro)
 
 ## Tutorials on Hardware and Mechanical Skills
-1. [Wire stripping](wirestripping.md)
+1. [Wire Stripping](wirestripping.md)
 2. [Makign Molex Connectors](molexconnectors.md)
-3. [Heat sets in 3D prints](heatsets.md)
+3. [Heat Set Inserts in 3D Prints](heatsets.md)
 4. [Cutting Threads](https://www.youtube.com/watch?v=r6Ijd9o-C10)
 5. [Soldering](soldering.md)
-6. [Electric cabinet wiring](dinwiring.md)
+6. [Electric Cabinet Wiring with DIN Terminals](dinwiring.md)
 7. [Fusion](fusion.md)
 
